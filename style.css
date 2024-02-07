@@ -1,0 +1,15 @@
+form{
+    background-color: green;
+  margin-top: 200px;
+  height: 300px;
+  color: white;
+  
+  
+    
+}
+input{
+
+    width: 30%;
+    height: 30px;
+    margin: 10px;
+}
